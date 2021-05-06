@@ -2,7 +2,8 @@
 
 ### Built this Power BI report from the following ExcelIsFun tutorial:
 ### Excel Data Analysis Class 03: Power BI Desktop, DAX Formulas, Relationships, Data Modeling& Visuals
-##### Link to youtube https://bitly.com/3vLxPIr
+##### Link to youtube tutorial https://bitly.com/3vLxPIr
+
 
 
 ## Click on image below to go to interactive Dashboard at Power BI online.
